@@ -24,9 +24,12 @@ For this response, please focus on your individual contributions.
 Describe your contribution to your team's goals this sprint.
 
 - How did you ensure that you implemented the designer's vision accurately?
+By constantly referencing the design file and running changes by my PM. Also getting feedback from the steakholder. 
 - What were the biggest challenges you faced this sprint?
+Implementing a d3 bubble map. The d3 library doesn't natively support react so I am making my own mini library for my application.
 - Describe the data layer of your application. (Feel free to pick a single model and break down the required fields for that resource. Are there any relationships? e.g. 1 to many, many to 1, etc.).
 - Describe your product's application structure and code patterns. Why or why not is your team using a linter? If applicable, describe the structure of your API.
+We are using prettier and ESLint. Our API is a rest node rest api with a mysql database and graphql.
 
 **UX designers:**
 
